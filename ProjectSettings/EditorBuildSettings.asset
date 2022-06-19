@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Learn/_Car.unity
+    path: Assets/Scenes/_Car.unity
     guid: b2965d51f8332b549b6745dba9518a00
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 6a085c3f816868942ac4f9626daedf0d, type: 2}
